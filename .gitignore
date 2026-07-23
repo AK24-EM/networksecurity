@@ -1,0 +1,21 @@
+venv/
+.venv/
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+
+# Data files
+Network_data/
+
+# Python build artifacts
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+dist/
+build/
